@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997864559243",
+    "project_id": "manif-b7943",
+    "storage_bucket": "manif-b7943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997864559243:android:c3294c1f6a45497fba3a8e",
+        "android_client_info": {
+          "package_name": "com.orane.manif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997864559243-jmctcd9edd3ji3tpgo4lbfdokeg22lpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPvVuxaCDv04h-Z0mSscfEzLbuolNBWz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997864559243-jmctcd9edd3ji3tpgo4lbfdokeg22lpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
